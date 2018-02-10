@@ -16,10 +16,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.android.GetStumped.question_2" />
-        <activity android:name="com.example.android.GetStumped.question_1" />
-        <activity android:name="com.example.android.GetStumped.question_3" />
-        <activity android:name="com.example.android.GetStumped.question_4"></activity>
     </application>
 
 </manifest>
